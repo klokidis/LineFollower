@@ -12,7 +12,7 @@ This repository contains the code for a simple line follower robot using a micro
 
 ## Hardware Requirements
 
-- Microcontroller (e.g., Raspberry Pi Pico)
+- Microcontroller: Cytron Maker Pi RP2040
 - IR Sensors (3x) for detecting the line
 - Motors (2x DC motors)
 - Chassis for the robot
