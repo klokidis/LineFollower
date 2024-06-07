@@ -70,6 +70,8 @@ This repository contains the code for a simple line follower robot using a micro
   - **Center sensor black**: Move forward.
   - **Left sensor white, others black**: Turn slightly right.
   - **Right sensor white, others black**: Turn slightly left.
+  - **Left sensor black, others white**: Turn hard left.
+  - **Right sensor black, others white**: Turn hard right.
   - **All sensors white**: Handle the last known direction to continue moving.
 
 ## Usage
